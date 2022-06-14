@@ -1,6 +1,6 @@
 # Guía para iniciar el proyecto
 
-Esta es una guúia básica que se puede seguir con tal de iniciar el correcto funcionamiento de la aplicación.
+Esta es una guía básica que se puede seguir con tal de iniciar el correcto funcionamiento de la aplicación.
 
 ## Instalar dependencias
 
